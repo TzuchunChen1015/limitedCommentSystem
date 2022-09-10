@@ -1,0 +1,18 @@
+/* This css file is for index.html */
+body { margin: 0; }
+main {
+	width: 50vw;
+	height: 50vh;
+	margin: 10vw auto;
+	border: 1px solid black;
+}
+main+div {
+	width: 50vw;
+	height: auto;
+}
+main+div input[type=text] {
+	width: 100%;
+	height: 5vw;
+}
+main+div input[type=submit] {
+}
