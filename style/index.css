@@ -16,10 +16,12 @@ main+div input[type=text] {
 	height: 3vw;
 	font-size: 2vw;
 	line-height: 3vw;
+	box-sizing: border-box;
 }
 main+div input[type=submit] {
-	width: 20%;
+	width: 19%;
 	height: 3vw;
 	font-size: 2vw;
 	line-height: 2vw;
+	box-sizing: border-box;
 }
