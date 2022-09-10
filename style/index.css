@@ -3,7 +3,7 @@ body { margin: 0; }
 main {
 	width: 50vw;
 	height: 50vh;
-	margin: 10vw auto;
+	margin: 3vw auto;
 	border: 1px solid black;
 }
 main+div {
